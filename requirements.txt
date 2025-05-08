@@ -1,0 +1,5 @@
+kasawa
+requests
+tls_client
+threading
+pystyle
